@@ -26,7 +26,7 @@ I'm a **Full-Stack Web Developer** with 10+ years of experience building scalabl
 ---
 
 ### 🧰 Tools I Use Daily
-
+![Sublime Text](https://img.shields.io/badge/Sublime%20Text-4d4d4d?style=flat&logo=sublime-text&logoColor=#ff9800)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-F55247?style=flat&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
