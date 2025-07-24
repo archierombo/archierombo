@@ -9,7 +9,7 @@ I'm a **Full-Stack Web Developer** with 10+ years of experience building scalabl
 - **Languages:** PHP, JavaScript, HTML, CSS, SQL
 - **Frameworks & Tools:** Laravel, WordPress, jQuery, AJAX, Bootstrap, Tailwind CSS
 - **Databases:** MySQL, PostgreSQL
-- **Other:** REST APIs, WooCommerce, Performance Optimization, Server Management (cPanel, Ubuntu), Email Verification, Flutter (basic)
+- **Other:** REST APIs, WooCommerce, Performance Optimization, Server Management (Webmin,cPanel, Ubuntu,CentOS), Email Verification, Flutter (basic)
 
 ---
 
